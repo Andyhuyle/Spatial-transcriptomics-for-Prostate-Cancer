@@ -49,3 +49,5 @@ po/*~
 rsconnect/
 
 outputs/checkpoints/
+
+data/
