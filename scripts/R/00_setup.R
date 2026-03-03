@@ -2,7 +2,7 @@
 library(Seurat)
 library(tidyverse)
 library(patchwork)
-library(spacexr)
+# library(spacexr)
 library(ggrepel)
 library(Matrix)
 library(hdf5r)
